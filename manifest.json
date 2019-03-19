@@ -1,0 +1,12 @@
+{
+    "short_name": "费爸爸",
+    "name": "帅气的费爸爸",
+    "icon": [
+        {
+            "src": "./Icon.jpg",
+            "type": "image/jpg",
+            "sizes": "48x48"
+        }
+    ],
+    "start_url": "index.html"
+}
